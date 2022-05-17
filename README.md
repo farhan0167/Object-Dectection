@@ -15,3 +15,6 @@ methodology.
 3. Plot_Model_Training_Logs.ipynb – Plot training logs
 4. Removing_ResNet_Layer.ipynb – Project 2 Submission
 5. BEiT_and_DETR_Understanding.ipynb – Reference Notebook that was used to understand the model architectures
+6. Finetuning_DETR.ipynb – Refer to Pre-trained weights section
+
+**Acknowledgement**: All code has been adapted from various sources. Most of the git clones will take you to the source from which the code has been adopted. 
