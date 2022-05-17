@@ -14,3 +14,4 @@ methodology.
 2. Inference-BEITDETR.ipynb – Inference using our BEiT-DETR trained weights
 3. Plot_Model_Training_Logs.ipynb – Plot training logs
 4. Removing_ResNet_Layer.ipynb – Project 2 Submission
+5. BEiT_and_DETR_Understanding.ipynb – Reference Notebook that was used to understand the model architectures
